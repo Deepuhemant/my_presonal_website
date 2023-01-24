@@ -163,5 +163,12 @@ hr{
         left: 7%;
         bottom: 40%
     }
+    .quote{
+        padding: 16%;
+    }
+    .copyright{
+        color: #EAF6F6;
+        font-size: 50%;
+    }
   }
   
