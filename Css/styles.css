@@ -150,6 +150,18 @@ hr{
   }
   .copyright{
     color: #EAF6F6;
-    font-size: 0.75 rem;
+    font-size: 80%;
     padding: 20px 0;
   }
+  @media(max-width:1000px) {
+    .topcloud{
+        right: 5% ;
+        top: 6%;
+    } 
+    .bottomcloud{
+    
+        left: 7%;
+        bottom: 40%
+    }
+  }
+  
